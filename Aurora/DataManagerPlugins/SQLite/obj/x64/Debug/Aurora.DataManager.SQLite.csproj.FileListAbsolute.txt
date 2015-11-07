@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.DataManager.SQLite.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.DataManager.SQLite.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManagerPlugins\SQLite\obj\x64\Debug\Aurora.DataManager.SQLite.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManagerPlugins\SQLite\obj\x64\Debug\Aurora.DataManager.SQLite.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManagerPlugins\SQLite\obj\x64\Debug\Aurora.DataManager.SQLite.pdb

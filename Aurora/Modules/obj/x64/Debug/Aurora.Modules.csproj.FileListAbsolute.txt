@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.Modules.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.Modules.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Modules\obj\x64\Debug\Aurora.Modules.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Modules\obj\x64\Debug\Aurora.Modules.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Modules\obj\x64\Debug\Aurora.Modules.pdb

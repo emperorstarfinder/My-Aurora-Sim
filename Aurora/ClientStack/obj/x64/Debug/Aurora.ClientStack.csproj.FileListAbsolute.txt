@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.ClientStack.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.ClientStack.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\ClientStack\obj\x64\Debug\Aurora.ClientStack.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\ClientStack\obj\x64\Debug\Aurora.ClientStack.pdb

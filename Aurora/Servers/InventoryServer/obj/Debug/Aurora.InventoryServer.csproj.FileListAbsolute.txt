@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.InventoryServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.InventoryServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\InventoryServer\obj\Debug\Aurora.InventoryServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\InventoryServer\obj\Debug\Aurora.InventoryServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\InventoryServer\obj\Debug\Aurora.InventoryServer.csprojResolveAssemblyReference.cache

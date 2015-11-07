@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.CoreApplicationPlugins.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.CoreApplicationPlugins.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\CoreApplicationPlugins\obj\Debug\Aurora.CoreApplicationPlugins.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\CoreApplicationPlugins\obj\Debug\Aurora.CoreApplicationPlugins.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\CoreApplicationPlugins\obj\Debug\Aurora.CoreApplicationPlugins.csprojResolveAssemblyReference.cache

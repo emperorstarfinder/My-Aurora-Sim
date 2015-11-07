@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.WebServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.WebServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\WebServer\obj\Debug\Aurora.WebServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\WebServer\obj\Debug\Aurora.WebServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\WebServer\obj\Debug\Aurora.WebServer.csprojResolveAssemblyReference.cache

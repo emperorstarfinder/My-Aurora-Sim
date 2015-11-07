@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.DataManager.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.DataManager.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManager\obj\x64\Debug\Aurora.DataManager.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManager\obj\x64\Debug\Aurora.DataManager.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManager\obj\x64\Debug\Aurora.DataManager.pdb

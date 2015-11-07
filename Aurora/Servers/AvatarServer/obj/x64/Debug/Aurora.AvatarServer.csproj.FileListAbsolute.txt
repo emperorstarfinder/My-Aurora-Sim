@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.AvatarServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.AvatarServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AvatarServer\obj\x64\Debug\Aurora.AvatarServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AvatarServer\obj\x64\Debug\Aurora.AvatarServer.pdb

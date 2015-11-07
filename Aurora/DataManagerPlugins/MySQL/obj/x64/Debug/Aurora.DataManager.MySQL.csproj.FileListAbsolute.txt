@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.DataManager.MySQL.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.DataManager.MySQL.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManagerPlugins\MySQL\obj\x64\Debug\Aurora.DataManager.MySQL.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManagerPlugins\MySQL\obj\x64\Debug\Aurora.DataManager.MySQL.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DataManagerPlugins\MySQL\obj\x64\Debug\Aurora.DataManager.MySQL.pdb

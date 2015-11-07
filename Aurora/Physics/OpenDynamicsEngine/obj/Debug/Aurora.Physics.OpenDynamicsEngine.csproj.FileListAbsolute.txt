@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Physics\Aurora.Physics.OpenDynamicsEngine.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Physics\Aurora.Physics.OpenDynamicsEngine.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\OpenDynamicsEngine\obj\Debug\Aurora.Physics.OpenDynamicsEngine.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\OpenDynamicsEngine\obj\Debug\Aurora.Physics.OpenDynamicsEngine.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\OpenDynamicsEngine\obj\Debug\Aurora.Physics.OpenDynamicsEngine.pdb

@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.GridServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.GridServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\GridServer\obj\x64\Debug\Aurora.GridServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\GridServer\obj\x64\Debug\Aurora.GridServer.pdb

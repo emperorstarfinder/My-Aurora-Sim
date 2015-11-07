@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.Services.SQLServices.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.Services.SQLServices.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Services\SQLServices\obj\Debug\Aurora.Services.SQLServices.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Services\SQLServices\obj\Debug\Aurora.Services.SQLServices.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Services\SQLServices\obj\Debug\Aurora.Services.SQLServices.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.GridServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.GridServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\GridServer\obj\Debug\Aurora.GridServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\GridServer\obj\Debug\Aurora.GridServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\GridServer\obj\Debug\Aurora.GridServer.csprojResolveAssemblyReference.cache

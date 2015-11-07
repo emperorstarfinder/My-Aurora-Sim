@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Physics\Aurora.Physics.BulletSPlugin.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Physics\Aurora.Physics.BulletSPlugin.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\BulletSPlugin\obj\Debug\Aurora.Physics.BulletSPlugin.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\BulletSPlugin\obj\Debug\Aurora.Physics.BulletSPlugin.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\BulletSPlugin\obj\Debug\Aurora.Physics.BulletSPlugin.pdb

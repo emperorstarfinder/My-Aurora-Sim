@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.ClientStack.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.ClientStack.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\ClientStack\obj\Debug\Aurora.ClientStack.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\ClientStack\obj\Debug\Aurora.ClientStack.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\ClientStack\obj\Debug\Aurora.ClientStack.csprojResolveAssemblyReference.cache

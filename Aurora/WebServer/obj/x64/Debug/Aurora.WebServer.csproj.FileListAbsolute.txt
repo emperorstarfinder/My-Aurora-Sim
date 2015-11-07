@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.WebServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.WebServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\WebServer\obj\x64\Debug\Aurora.WebServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\WebServer\obj\x64\Debug\Aurora.WebServer.pdb

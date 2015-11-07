@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.AssetServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.AssetServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AssetServer\obj\x64\Debug\Aurora.AssetServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AssetServer\obj\x64\Debug\Aurora.AssetServer.pdb

@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.CoreApplicationPlugins.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.CoreApplicationPlugins.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\CoreApplicationPlugins\obj\x64\Debug\Aurora.CoreApplicationPlugins.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\CoreApplicationPlugins\obj\x64\Debug\Aurora.CoreApplicationPlugins.pdb

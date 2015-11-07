@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Physics\Aurora.Physics.Meshing.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Physics\Aurora.Physics.Meshing.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\Meshing\obj\Debug\Aurora.Physics.Meshing.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\Meshing\obj\Debug\Aurora.Physics.Meshing.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\Meshing\obj\Debug\Aurora.Physics.Meshing.csprojResolveAssemblyReference.cache

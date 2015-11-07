@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.Services.GenericServices.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.Services.GenericServices.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Services\GenericServices\obj\x64\Debug\Aurora.Services.GenericServices.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Services\GenericServices\obj\x64\Debug\Aurora.Services.GenericServices.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Services\GenericServices\obj\x64\Debug\Aurora.Services.GenericServices.pdb

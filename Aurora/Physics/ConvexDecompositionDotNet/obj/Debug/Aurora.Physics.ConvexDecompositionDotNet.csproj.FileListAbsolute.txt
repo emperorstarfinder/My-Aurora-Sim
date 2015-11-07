@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.Physics.ConvexDecompositionDotNet.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.Physics.ConvexDecompositionDotNet.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\ConvexDecompositionDotNet\obj\Debug\Aurora.Physics.ConvexDecompositionDotNet.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\ConvexDecompositionDotNet\obj\Debug\Aurora.Physics.ConvexDecompositionDotNet.pdb

@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.AvatarServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.AvatarServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AvatarServer\obj\Debug\Aurora.AvatarServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AvatarServer\obj\Debug\Aurora.AvatarServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AvatarServer\obj\Debug\Aurora.AvatarServer.csprojResolveAssemblyReference.cache

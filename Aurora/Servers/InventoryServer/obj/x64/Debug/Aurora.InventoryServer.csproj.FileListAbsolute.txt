@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.InventoryServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.InventoryServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\InventoryServer\obj\x64\Debug\Aurora.InventoryServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\InventoryServer\obj\x64\Debug\Aurora.InventoryServer.pdb

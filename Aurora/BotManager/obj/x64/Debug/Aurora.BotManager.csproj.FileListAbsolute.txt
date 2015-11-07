@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.BotManager.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.BotManager.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\BotManager\obj\x64\Debug\Aurora.BotManager.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\BotManager\obj\x64\Debug\Aurora.BotManager.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\BotManager\obj\x64\Debug\Aurora.BotManager.pdb

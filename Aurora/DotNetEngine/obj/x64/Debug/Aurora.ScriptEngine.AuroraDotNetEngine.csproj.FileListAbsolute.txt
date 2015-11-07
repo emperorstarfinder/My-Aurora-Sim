@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.ScriptEngine.DotNetEngine.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.ScriptEngine.DotNetEngine.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DotNetEngine\obj\x64\Debug\Aurora.ScriptEngine.DotNetEngine.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DotNetEngine\obj\x64\Debug\Aurora.ScriptEngine.DotNetEngine.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\DotNetEngine\obj\x64\Debug\Aurora.ScriptEngine.DotNetEngine.pdb

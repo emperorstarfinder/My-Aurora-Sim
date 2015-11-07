@@ -1,0 +1,5 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.AssetServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Aurora.AssetServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AssetServer\obj\Debug\Aurora.AssetServer.exe
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AssetServer\obj\Debug\Aurora.AssetServer.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Servers\AssetServer\obj\Debug\Aurora.AssetServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Physics\Aurora.Physics.BasicPhysicsPlugin.dll
+C:\Users\virtu\Desktop\Aurora-Sim\bin\Physics\Aurora.Physics.BasicPhysicsPlugin.pdb
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\BasicPhysicsPlugin\obj\x64\Debug\Aurora.Physics.BasicPhysicsPlugin.dll
+C:\Users\virtu\Desktop\Aurora-Sim\Aurora\Physics\BasicPhysicsPlugin\obj\x64\Debug\Aurora.Physics.BasicPhysicsPlugin.pdb
