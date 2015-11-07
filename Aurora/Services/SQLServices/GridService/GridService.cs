@@ -61,22 +61,24 @@ namespace Aurora.Services.SQLServices.GridService
         protected IAgentInfoService m_agentInfoService;
         protected ISyncMessagePosterService m_syncPosterService;
         protected IGridServerInfoService m_gridServerInfo;
-        private struct NeighborLocation
+        struct NeighborLocation
         {
             public UUID RegionID;
             public int RegionLocX;
             public int RegionLocY;
+
             public override bool Equals(object obj)
             {
                 if (obj is NeighborLocation)
                 {
                     NeighborLocation loc = (NeighborLocation)obj;
-                    return loc.RegionID == this.RegionID &&
-                        loc.RegionLocX == this.RegionLocX &&
-                        loc.RegionLocY == this.RegionLocY;
+                    return loc.RegionID == RegionID &&
+                    loc.RegionLocX == RegionLocX &&
+                    loc.RegionLocY == RegionLocY;
                 }
                 return false;
             }
+
             public static bool operator ==(NeighborLocation a, NeighborLocation b)
             {
                 // If both are null, or both are same instance, return true.
@@ -90,11 +92,24 @@ namespace Aurora.Services.SQLServices.GridService
                 // Return true if the fields match:
                 return a.Equals(b);
             }
+
             public static bool operator !=(NeighborLocation a, NeighborLocation b)
             {
                 return !(a == b);
             }
+
+            public override int GetHashCode()
+            {
+                string idStr = RegionID.ToString();
+                int hash = idStr.GetHashCode();
+
+                hash = (hash * 3) + (RegionLocX * 5) + (RegionLocY * 7);
+
+                return hash;
+            }
+
         }
+
         private class NeighborLocationEqualityComparer : IEqualityComparer<NeighborLocation>
         {
             public bool Equals(NeighborLocation b1, NeighborLocation b2)
